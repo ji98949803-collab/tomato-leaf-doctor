@@ -22,7 +22,7 @@ export default async function handler(req, res) {
   }
 }
   </pre>
-  <p class="hint">Vercel 대시보드 → Settings → Environment Variables에 <code>ROBOFLOW_API_KEY</code>, <code>DATASET</code> (예: <code>tomato-v3-슬러그</code>), <code>VERSION</code> (예: <code>3</code>)을 추가하세요.</p>
+  <p class="hint">Vercel 대시보드 → Settings → Environment Variables에 <code>q6m5XHkMpY9rYsxDaNi6</code>, <code>tomato-v3-aykdz</code> (예: <code>tomato-v3-슬러그</code>), <code>3</code> (예: <code>3</code>)을 추가하세요.</p>
 </section>
 </body>
 </html>
